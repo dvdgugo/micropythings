@@ -47,11 +47,15 @@ Pomodoro timer made with a Rapberry pi Pico, a display and a buzzer, using micro
 ### **Wires Setup**
 |Rpi PICO|Display|
 |-|-|
-|TODO|TODO|
+|3V3|5V|
+|GND|GND|
+|GP16|DIO|
+|GP17|CLK|
 
 |Rpi PICO|Buzzer|
 |-|-|
-|TODO|TODO|
+|S|GP15|
+|GND|GND|
 
 
 
